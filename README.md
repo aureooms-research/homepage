@@ -1,2 +1,2 @@
 # homepage
-Personnal academic homepage
+Personal academic homepage
