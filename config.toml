@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Aurélien Ooms"
-  role = "PhD Student"
+  role = "PhD student"
   organization = "Université libre de Bruxelles"
   organization_url = ""
   avatar = "portrait.jpg"
