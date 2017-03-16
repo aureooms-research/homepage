@@ -33,8 +33,9 @@ weight = 1
 
 # Biography
 
-Aurélien Ooms is a PhD student at
-[Université libre de Bruxelles (ULB)](http://ulb.be)
+Aurélien Ooms is a PhD student
+in [ULB](http://ulb.be)'s
+[Algorithms Research Group](http://algo.ulb.be)
 under the supervision of
 [Jean Cardinal](http://www.ulb.ac.be/di/algo/jcardin) and
 [Gwenaël Joret](http://www.ulb.ac.be/di/algo/gjoret).
@@ -44,5 +45,3 @@ Data Structures,
 Algorithms
 and
 Computational Geometry.
-He is part of ULB's
-[Algorithms Research Group](http://algo.ulb.be).
