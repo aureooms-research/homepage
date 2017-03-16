@@ -36,8 +36,8 @@ weight = 1
 Aurélien Ooms is a PhD student at
 [Université libre de Bruxelles (ULB)](http://ulb.be)
 under the supervision of
-[Jean Cardinal](http://homepages.ulb.ac.be/~jcardin) and
-[Gwenaël Joret](http://homepages.ulb.ac.be/~gjoret).
+[Jean Cardinal](http://www.ulb.ac.be/di/algo/jcardin) and
+[Gwenaël Joret](http://www.ulb.ac.be/di/algo/gjoret).
 His research interests include
 Computational Complexity,
 Data Structures,
