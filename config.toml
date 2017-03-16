@@ -1,5 +1,5 @@
 baseurl = "http://homepages.ulb.ac.be/~aureooms/"
-title = "Aurélien Ooms's academic homepage"
+title = "Aurélien's academic homepage"
 copyright = "&copy; 2017 Aurélien Ooms"
 theme = "academic"
 enableEmoji = true

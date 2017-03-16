@@ -33,8 +33,16 @@ weight = 1
 
 # Biography
 
-Aurélien Ooms is a PhD student at Université libre de Bruxelles under the
-supervision of Jean Cardinal and Gwenaël Joret. His research interests include
-computational complexity, data structures, algorithms and computational
-geometry. He is part of the Algorithms Research Group at Université libre de
-Bruxelles.
+Aurélien Ooms is a PhD student at
+[Université libre de Bruxelles (ULB)](http://ulb.be)
+under the supervision of
+[Jean Cardinal](http://homepages.ulb.ac.be/~jcardin) and
+[Gwenaël Joret](http://homepages.ulb.ac.be/~gjoret).
+His research interests include
+Computational Complexity,
+Data Structures,
+Algorithms
+and
+Computational Geometry.
+He is part of ULB's
+[Algorithms Research Group](http://algo.ulb.be).
