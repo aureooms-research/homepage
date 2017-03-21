@@ -40,7 +40,7 @@ url = "https://github.com/aureooms-research/meiser"
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/k-SUM-hyperplanes.png"
-caption = "The arrangements of $k$-SUM hyperplanes for $n=3$ and $k \\in \\{\\,1,2,3\\,\\}$."
+#caption = "The arrangements of $k$-SUM hyperplanes for $n=3$ and $k \\in \\{\\,1,2,3\\,\\}$."
 
 +++
 
