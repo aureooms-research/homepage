@@ -11,16 +11,31 @@ publication = "In *European Symposium on Algorithms (ESA 2016)*."
 publication_short = "In *ESA 2016*"
 selected = true
 title = "Solving $k$-SUM using few linear queries"
-url_code = ""
-url_dataset = ""
-url_pdf = "https://arxiv.org/pdf/1512.06678"
-url_project = ""
-url_slides = ""
-url_video = ""
 
-#[[url_custom]]
-#name = "Custom Link"
-#url = "http://www.example.org"
+[[url_custom]]
+name = "arXiv"
+url = "https://arxiv.org/abs/1512.06678"
+
+[[url_custom]]
+name = "ESA 2016"
+url = "https://ipfs.io/ipfs/QmfVFLxMXEWSShUUcv15e5wfhed7e4Wbrzou2GNjZ1UDZz/ksum/2016/esa/paper.pdf"
+
+[[url_custom]]
+name = "ESA 2016 fast forward"
+url = "https://ipfs.io/ipfs/QmfVFLxMXEWSShUUcv15e5wfhed7e4Wbrzou2GNjZ1UDZz/ksum/2016/esa/fastforward.pdf"
+
+[[url_custom]]
+name = "ESA 2016 slides"
+url = "https://ipfs.io/ipfs/QmfVFLxMXEWSShUUcv15e5wfhed7e4Wbrzou2GNjZ1UDZz/ksum/2016/esa/slides.pdf"
+
+[[url_custom]]
+name = "HALG 2016 poster"
+url= "https://ipfs.io/ipfs/QmfVFLxMXEWSShUUcv15e5wfhed7e4Wbrzou2GNjZ1UDZz/ksum/2016/halg/poster.pdf"
+
+[[url_custom]]
+name = "Python implementation"
+url = "https://github.com/aureooms-research/meiser"
+
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

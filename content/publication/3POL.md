@@ -12,13 +12,20 @@ publication = "In *Symposium on Computational Geometry (SoCG 2017)*."
 publication_short = "In *SoCG 2017*"
 selected = true
 title = "Subquadratic Algorithms for Algebraic Generalizations of 3SUM"
-url_code = ""
-url_dataset = ""
-url_pdf = "https://arxiv.org/pdf/1612.02384"
-url_project = ""
-url_slides = ""
-url_video = ""
+
+[[url_custom]]
+name = "arXiv"
+url = "https://arxiv.org/abs/1612.02384"
+
+[[url_custom]]
+name = "EuroCG 2017"
+url = "https://ipfs.io/ipfs/QmfVFLxMXEWSShUUcv15e5wfhed7e4Wbrzou2GNjZ1UDZz/3pol/2017/eurocg/paper.pdf"
+
+[[url_custom]]
+name = "SoCG 2017"
+url = "https://ipfs.io/ipfs/QmfVFLxMXEWSShUUcv15e5wfhed7e4Wbrzou2GNjZ1UDZz/3pol/2017/socg/paper.pdf"
 
 +++
 
 <!--More detail can easily be written here using *Markdown* and $\\rm \\LaTeX$ math code.-->
+
