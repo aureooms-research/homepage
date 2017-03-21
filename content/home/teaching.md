@@ -14,6 +14,5 @@ weight = 60
 
 +++
 
-I am a teaching assistant for the following courses at ULB:
-
-- INFOF408: Computatibility and Complexity
+I am a teaching assistant for the Computatibility and Complexity (INFOF408)
+lectures at ULB.
