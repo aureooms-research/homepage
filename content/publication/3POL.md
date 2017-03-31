@@ -25,6 +25,10 @@ url = "https://ipfs.io/ipfs/QmfVFLxMXEWSShUUcv15e5wfhed7e4Wbrzou2GNjZ1UDZz/3pol/
 name = "SoCG 2017"
 url = "https://ipfs.io/ipfs/QmfVFLxMXEWSShUUcv15e5wfhed7e4Wbrzou2GNjZ1UDZz/3pol/2017/socg/paper.pdf"
 
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "headers/3POL.svg"
+
 +++
 
 <!--More detail can easily be written here using *Markdown* and $\\rm \\LaTeX$ math code.-->
