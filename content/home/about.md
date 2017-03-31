@@ -15,6 +15,7 @@ weight = 1
     "Computational Complexity",
     "Data Structures",
     "Algorithms",
+    "Sorting Problems",
     "Computational Geometry"
   ]
 
@@ -42,6 +43,7 @@ under the supervision of
 His research interests include
 Computational Complexity,
 Data Structures,
-Algorithms
+Algorithms,
+Sorting Problems
 and
 Computational Geometry.
