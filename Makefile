@@ -17,7 +17,7 @@ public:
 	# mkdir ../ftp
 	# mkdir ../ftp-tmp
 	# curlftpfs homepages.ulb.ac.be ../ftp -o user=aureooms
-	# rsync -rh --temp-dir=../ftp-tmp --progress public/ ../ftp/public_html
+	# rsync -rh --progress --temp-dir=../ftp-tmp public/ ../ftp/public_html
 	# fusermount -u ../ftp
 	# rm -r ../ftp
 	# rm -r ../ftp-tmp
