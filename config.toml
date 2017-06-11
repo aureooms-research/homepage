@@ -133,6 +133,16 @@ defaultContentLanguageInSubdir = false
     link = "https://scholar.google.co.uk/citations?user=r_Zlz8QAAAAJ"
 
   [[params.social]]
+    icon = "arxiv"
+    icon_pack = "ai"
+    link = "https://arxiv.org/find/cs/1/au:+Ooms_A/0/1/0/all/0/1"
+
+  [[params.social]]
+    icon = "dblp"
+    icon_pack = "ai"
+    link = "http://dblp.uni-trier.de/pers/hd/o/Ooms:Aur=eacute=lien"
+
+  [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/aureooms"
