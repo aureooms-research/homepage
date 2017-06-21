@@ -22,19 +22,19 @@ url = "https://arxiv.org/abs/1512.06678"
 
 [[url_custom]]
 name = "ESA 2016"
-url = "https://ipfs.io/ipfs/QmfVFLxMXEWSShUUcv15e5wfhed7e4Wbrzou2GNjZ1UDZz/ksum/2016/esa/paper.pdf"
+url = "https://ipfs.io/ipfs/QmY9HhZ2Kv2PaAbrgiNBh1Hxfo64cfLRgypywutuVyvxYQ"
 
 [[url_custom]]
 name = "ESA 2016 fast forward"
-url = "https://ipfs.io/ipfs/QmfVFLxMXEWSShUUcv15e5wfhed7e4Wbrzou2GNjZ1UDZz/ksum/2016/esa/fastforward.pdf"
+url = "https://ipfs.io/ipfs/QmcrTWk45pxQuAn8xdum1yvU5F95t2ZnV86dHCTZfS4Ept"
 
 [[url_custom]]
 name = "ESA 2016 slides"
-url = "https://ipfs.io/ipfs/QmfVFLxMXEWSShUUcv15e5wfhed7e4Wbrzou2GNjZ1UDZz/ksum/2016/esa/slides.pdf"
+url = "https://ipfs.io/ipfs/QmZERqBRnsEcZj6Wy6DCtkj8KRfdNDvaCEgfwu6Xwv2EKq"
 
 [[url_custom]]
 name = "HALG 2016 poster"
-url= "https://ipfs.io/ipfs/QmfVFLxMXEWSShUUcv15e5wfhed7e4Wbrzou2GNjZ1UDZz/ksum/2016/halg/poster.pdf"
+url= "https://ipfs.io/ipfs/QmaPNGhvZkn6dNLiY8fB2RU8H5K5oUp2sSor6qAEYvFKuC"
 
 [[url_custom]]
 name = "Python implementation"
