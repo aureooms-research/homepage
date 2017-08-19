@@ -135,7 +135,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "arxiv"
     icon_pack = "ai"
-    link = "https://arxiv.org/find/cs/1/au:+Ooms_A/0/1/0/all/0/1"
+    link = "https://arxiv.org/find/cs/1/au:+Ooms_Aurelien/0/1/0/all/0/1"
 
   [[params.social]]
     icon = "dblp"
