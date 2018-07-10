@@ -140,12 +140,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "dblp"
     icon_pack = "ai"
-    link = "http://dblp.uni-trier.de/pers/hd/o/Ooms:Aur=eacute=lien"
+    link = "https://dblp.uni-trier.de/pers/hd/o/Ooms:Aur=eacute=lien"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/aureooms"
+    link = "https://github.com/aureooms"
 
   [[params.social]]
     icon = "envelope"
