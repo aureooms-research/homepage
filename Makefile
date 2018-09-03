@@ -1,3 +1,5 @@
+.PHONY: all build public upload clean
+
 all: build
 
 build: public
