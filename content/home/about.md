@@ -38,7 +38,7 @@ Aurélien Ooms is a PhD student
 in [ULB](https://ulb.be)'s
 [Algorithms Research Group](https://algo.ulb.be)
 under the supervision of
-[Jean Cardinal](https://www.ulb.ac.be/di/algo/jcardin).
+[Jean Cardinal](http://homepages.ulb.ac.be/~jcardin).
 His research interests include
 Computational Complexity,
 Data Structures,
