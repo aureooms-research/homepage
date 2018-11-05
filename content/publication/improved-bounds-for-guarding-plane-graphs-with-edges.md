@@ -8,34 +8,26 @@ authors = [
 "Aurélien Ooms",
 "[Sander Verdonschot](http://cglab.ca/~sander)"
 ]
-date = "2018-01-05"
+date = "2018-04-19"
 image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "In *Symposium on Computational Geometry (SoCG 2018)*."
-publication_short = "In *SoCG 2018*"
+publication = "In *Symposium on Computational Geometry (SWAT 2018)*."
+publication_short = "In *SWAT 2018*"
 selected = true
-title = "Subquadratic Encodings for Point Configurations"
+title = "Improved Bounds for Guarding Plane Graphs with Edges"
 
 [[url_custom]]
 name = "arXiv"
-url = "https://arxiv.org/abs/1801.01767"
+url = "https://arxiv.org/abs/1804.07150"
 
 [[url_custom]]
-name = "EuroCG 2018"
-url = "https://ipfs.io/ipfs/QmZ8jc8p4g1LKnm2CJC8g5zbGLGqM9usvkqeWwgw9ySBjz"
-
-[[url_custom]]
-name = "SoCG 2018"
-url = "https://ipfs.io/ipfs/QmUBZGBuHaCj4oWCfdDQen9rD9VL7YVKK2QsHKKXKZ73zj"
-
-[[url_custom]]
-name = "SoCG 2018 slides"
-url = "https://ipfs.io/ipfs/QmckEbpCyq5wgkY8KSGpUs9VAJ3vJVm7zHbMn9VUaUE6yv"
+name = "SWAT 2018"
+url = "https://ipfs.io/ipfs/QmSy3TaV9PA29G57bFbBSDN1wQECUt62FkNnAFerBm87Kz"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/order-types.svg"
+image = "https://ipfs.io/ipfs/QmWGExAennsU4gpAdfseRVk4EXso7y52jpsY8fbgeo7om7"
 
 +++
 
