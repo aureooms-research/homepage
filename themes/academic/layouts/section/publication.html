@@ -25,7 +25,7 @@
       <p>
         {{ i18n "filter_by_type" }}:
         <select class="pub-filters-select">
-          <option value=".pubtype-all">{{ i18n "filter_all" }}</option>
+          <option value="*">{{ i18n "filter_all" }}</option>
           {{ range $index, $taxonomy := .Site.Taxonomies.publication_types }}
           <option value=".pubtype-{{ (int $index) }}">
             {{ index $.Site.Params.publication_types (int $index) }}
@@ -36,31 +36,12 @@
 
       <div id="container-publications">
         {{ range .Pages.ByDate.Reverse }}
-
-        <div class="grid-sizer col-md-12 isotope-item pubtype-all">
-          <i class="fa fa-file-text-o" aria-hidden="true"
-             style="color:#03396c;font-size:80%;padding-top:6px; padding-right: 10px;"></i>{{ .Title }}
-          <p>{{ partial "publication_links" (dict "content" . "is_list" 1) }}</p>
-        </div>
-        {{ if .Params.publication_types }}
-          {{ $pub := . }}
-          {{ range .Params.publication_types }}
-            <div class="grid-sizer col-md-12 isotope-item pubtype-{{ . }}">
-              <i class="fa fa-file-text-o" aria-hidden="true"
-                 style="color:#03396c;font-size:80%;padding-top:6px;
-                 padding-right: 10px;"></i>{{ $pub.Title }}
-              <p>{{ partial "publication_links" (dict "content" $pub "is_list" 1) }}</p>
-            </div>
-          {{ end }}
-        {{ else }}
-          <div class="grid-sizer col-md-12 isotope-item pubtype-0">
+          <div class="grid-sizer col-md-12 isotope-item {{ if .Params.publication_types }}{{ range .Params.publication_types }} pubtype-{{ . }}{{ end }}{{ else }} pubtype-0{{ end }}">
             <i class="fa fa-file-text-o" aria-hidden="true"
-               style="color:#03396c;font-size:80%;padding-top:6px; padding-right: 10px;"></i>{{ .Title }}
+               style="color:#03396c;font-size:80%;padding-top:6px;
+               padding-right: 10px;"></i>{{ .Title }}
             <p>{{ partial "publication_links" (dict "content" . "is_list" 1) }}</p>
           </div>
-        {{ end }}
-
-
         {{ end }}
       </div>
 
