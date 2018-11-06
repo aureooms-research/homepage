@@ -11,7 +11,7 @@ image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "In *European Symposium on Algorithms (ESA 2016)*."
-publication_short = "In *ESA 2016*"
+publication_short = "In *ESA 2016*."
 title = "Solving $k$-SUM using few linear queries"
 
 [[url_custom]]
