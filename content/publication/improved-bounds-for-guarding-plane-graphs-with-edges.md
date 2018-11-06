@@ -10,10 +10,9 @@ authors = [
 date = "2018-04-19"
 image_preview = ""
 math = true
-publication_types = ["2"]
+publication_types = ["1"]
 publication = "In *15th Scandinavian Symposium and Workshops on Algorithm Theory (SWAT 2018)*."
-publication_short = "In *SWAT 2018*"
-selected = true
+publication_short = "In *SWAT 2018*."
 title = "Improved Bounds for Guarding Plane Graphs with Edges"
 
 [[url_custom]]

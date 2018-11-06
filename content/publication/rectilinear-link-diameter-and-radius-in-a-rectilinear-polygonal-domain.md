@@ -14,10 +14,9 @@ authors = [
 date = "2017-12-15"
 image_preview = ""
 math = true
-publication_types = ["2"]
-publication = "In *29th International Symposium on Algorithms and Computation (ISAAC 2018)*."
-publication_short = "In *ISAAC 2018*"
-selected = true
+publication_types = ["1"]
+publication = "In *34th European Workshop on Computational Geometry (EuroCG 2018)* and *29th International Symposium on Algorithms and Computation (ISAAC 2018)*."
+publication_short = "In *EuroCG 2018* and *ISAAC 2018*."
 title = "Rectilinear Link Diameter and Radius in a Rectilinear Polygonal Domain"
 
 [[url_custom]]

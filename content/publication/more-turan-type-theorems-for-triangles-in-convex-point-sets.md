@@ -12,9 +12,7 @@ date = "2017-06-30"
 image_preview = ""
 math = true
 publication_types = ["2"]
-publication = ""
-publication_short = ""
-selected = true
+publication = "To appear in *The Electronic Journal of Combinatorics*."
 title = "More Turán-Type Theorems for Triangles in Convex Point Sets"
 
 [[url_custom]]
