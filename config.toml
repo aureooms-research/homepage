@@ -1,6 +1,6 @@
 baseurl = "http://homepages.ulb.ac.be/~aureooms/"
 title = "Aurélien's academic homepage"
-copyright = "&copy; 2017 Aurélien Ooms"
+copyright = "&copy; 2018 Aurélien Ooms"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
