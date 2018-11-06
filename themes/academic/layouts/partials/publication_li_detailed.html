@@ -5,8 +5,12 @@
 
     <div class="col-md-12">
       <a href="{{ .Permalink }}">
-        <img src="{{ "/img/" | relURL }}{{ .Params.image_preview }}" class="pub-banner"
-             itemprop="image">
+        {{ $img_src := urls.Parse .Params.image_preview }}
+        {{ if $img_src.Scheme }}
+        <img src="{{ .Params.image_preview }}" class="pub-banner" itemprop="image" alt="">
+        {{ else }}
+        <img src="{{ (printf "/img/%s" .Params.image_preview) | relURL }}" class="pub-banner" itemprop="image" alt="">
+        {{ end }}
       </a>
     </div>
     <div class="col-md-12">
@@ -15,7 +19,12 @@
 
     <div class="col-md-12">
       <a href="{{ .Permalink }}">
-        <img src="{{ "/img/" | relURL }}{{ .Params.header.image }}" class="pub-banner" itemprop="image">
+        {{ $img_src := urls.Parse .Params.header.image }}
+        {{ if $img_src.Scheme }}
+        <img src="{{ .Params.header.image }}" class="pub-banner" itemprop="image" alt="">
+        {{ else }}
+        <img src="{{ (printf "/img/%s" .Params.header.image) | relURL }}" class="pub-banner" itemprop="image" alt="">
+        {{ end }}
       </a>
     </div>
     <div class="col-md-12">
