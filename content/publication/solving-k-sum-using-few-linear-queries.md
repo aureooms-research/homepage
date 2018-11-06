@@ -7,7 +7,7 @@ authors = [
 "[John Iacono](http://johniacono.com)",
 "Aurélien Ooms"
 ]
-date = "2015-12-01"
+date = "2015-12-21"
 image_preview = ""
 math = true
 publication_types = ["1"]

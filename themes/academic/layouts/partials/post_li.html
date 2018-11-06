@@ -5,7 +5,12 @@
   {{ $preview := $post.Params.header.preview | default true }}
   {{ if and $post.Params.header.image $preview }}
   <a href="{{ $post.Permalink }}">
-    <img src="{{ "/img/" | relURL }}{{ $post.Params.header.image }}" class="article-banner" itemprop="image">
+      {{ $img_src := urls.Parse .Params.header.image }}
+      {{ if $img_src.Scheme }}
+      <img src="{{ .Params.header.image }}" class="pub-banner" itemprop="image" alt="">
+      {{ else }}
+      <img src="{{ (printf "/img/%s" .Params.header.image) | relURL }}" class="article-banner" itemprop="image" alt="">
+      {{ end }}
   </a>
   {{end}}
   <h3 class="article-title" itemprop="name">

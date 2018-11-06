@@ -10,7 +10,7 @@ authors = [
 "Aurélien Ooms",
 "[Noam Solomon](https://sites.google.com/site/noamsolomonswebpage)"
 ]
-date = "2016-12-01"
+date = "2016-12-07"
 image_preview = ""
 math = true
 publication_types = ["2"]
