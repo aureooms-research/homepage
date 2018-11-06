@@ -14,5 +14,5 @@ weight = 60
 
 +++
 
-I am a teaching assistant for the Computatibility and Complexity (INFOF408)
+I am a teaching assistant for the Computability and Complexity (INFOF408)
 lectures at ULB.
