@@ -23,6 +23,10 @@ url = "https://arxiv.org/abs/1804.07150"
 name = "SWAT 2018"
 url = "https://ipfs.io/ipfs/QmSy3TaV9PA29G57bFbBSDN1wQECUt62FkNnAFerBm87Kz"
 
+[[url_custom]]
+name = "Graphs and Combinatorics"
+url = "https://rdcu.be/bfM83"
+
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "https://ipfs.io/ipfs/QmWGExAennsU4gpAdfseRVk4EXso7y52jpsY8fbgeo7om7"
