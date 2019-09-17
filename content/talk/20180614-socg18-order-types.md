@@ -12,7 +12,7 @@ selected = false
 math = true
 
 url_pdf = ""
-url_slides = "https://ipfs.io/ipfs/QmckEbpCyq5wgkY8KSGpUs9VAJ3vJVm7zHbMn9VUaUE6yv"
+url_slides = "https://ipfs.c.ovfefe.cf/ipfs/QmckEbpCyq5wgkY8KSGpUs9VAJ3vJVm7zHbMn9VUaUE6yv"
 url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).

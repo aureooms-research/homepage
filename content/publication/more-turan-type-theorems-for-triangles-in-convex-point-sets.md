@@ -21,7 +21,7 @@ url = "https://arxiv.org/abs/1706.10193"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "https://ipfs.io/ipfs/QmccEg6X21oWjsc6DzCwrZEeNcVoyaLRWZy7asstpnCMFy"
+image = "https://ipfs.c.ovfefe.cf/ipfs/QmccEg6X21oWjsc6DzCwrZEeNcVoyaLRWZy7asstpnCMFy"
 
 +++
 
