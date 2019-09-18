@@ -5,7 +5,7 @@ title = "Solving $k$-SUM using few linear queries"
 abstract = ""
 abstract_short = ""
 event = "CG lab seminar"
-event_url = ""
+event_url = "http://cglab.ca/seminar/2016/aurelien-ksum.html"
 location = "Carleton University, Ottawa, Canada"
 
 selected = false

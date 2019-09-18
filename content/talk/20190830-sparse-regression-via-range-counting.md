@@ -12,6 +12,8 @@ lastmod: 2019-09-18T11:12:40+02:00
 featured: false
 draft: false
 location: Carleton University, Ottawa, Canada
+event: CG lab seminar
+event_url: http://cglab.ca/seminar/2019/aurelienSparse.html
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
