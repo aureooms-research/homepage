@@ -13,8 +13,8 @@ date = "2016-12-07"
 image_preview = ""
 math = true
 publication_types = ["1", "2"]
-publication = "In *33th European Workshop on Computational Geometry (EuroCG 2017)* and *33th Symposium on Computational Geometry (SoCG 2017)*. Invited to *Discrete & Computational Geometry* special issue for *SoCG 2017*. To appear in *Discrete & Computational Geometry*."
-publication_short = "In *EuroCG 2017* and *SoCG 2017*. Invited to *DCG* special issue for *SoCG 2017*. To appear in *DCG*."
+publication = "In *33th European Workshop on Computational Geometry (EuroCG 2017)* and *33th Symposium on Computational Geometry (SoCG 2017)*. Invited to *Discrete & Computational Geometry* special issue for *SoCG 2017*. To appear in *Discrete & Computational Geometry*"
+publication_short = "In *EuroCG 2017* and *SoCG 2017*. Invited to *DCG* special issue for *SoCG 2017*. To appear in *DCG*"
 selected = true
 title = "Subquadratic Algorithms for Algebraic Generalizations of 3SUM"
 

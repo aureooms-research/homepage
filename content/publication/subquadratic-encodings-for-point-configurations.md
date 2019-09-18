@@ -12,8 +12,8 @@ date = "2018-01-05"
 image_preview = ""
 math = true
 publication_types = ["1", "2"]
-publication = "In *27th Annual Fall Workshop on Computational Geometry (FWCG 2017)*, *34th European Workshop on Computational Geometry (EuroCG 2018)* and *34th Symposium on Computational Geometry (SoCG 2018)*. Invited to *Computational Geometry - Theory and Applications* special issues for *EuroCG 2018*. Invited to *Journal of Computational Geometry* special issue for *SoCG 2018*. Best student presentation award at *SoCG 2018*. To appear in *Journal of Computational Geometry*."
-publication_short = "In *FWCG 2017*, *EuroCG 2018*, and *SoCG 2018*. Invited to *CGTA* special issue for *EuroCG 2018*. Invited to *JoCG* special issue for *SoCG 2018*. Best student presentation award at *SoCG 2018*. To appear in *JoCG*."
+publication = "In *27th Annual Fall Workshop on Computational Geometry (FWCG 2017)*, *34th European Workshop on Computational Geometry (EuroCG 2018)* and *34th Symposium on Computational Geometry (SoCG 2018)*. Invited to *Computational Geometry - Theory and Applications* special issues for *EuroCG 2018*. Invited to *Journal of Computational Geometry* special issue for *SoCG 2018*. Best student presentation award at *SoCG 2018*. To appear in *Journal of Computational Geometry*"
+publication_short = "In *FWCG 2017*, *EuroCG 2018*, and *SoCG 2018*. Invited to *CGTA* special issue for *EuroCG 2018*. Invited to *JoCG* special issue for *SoCG 2018*. Best student presentation award at *SoCG 2018*. To appear in *JoCG*"
 selected = true
 title = "Subquadratic Encodings for Point Configurations"
 
