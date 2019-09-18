@@ -4,6 +4,9 @@ all: build
 
 build: public
 
+serv:
+	hugo server
+
 public:
 	hugo
 	sed 's:<priority>0</priority>:<priority>1</priority>:g' public/sitemap.xml -i
