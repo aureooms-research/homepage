@@ -14,27 +14,27 @@ publication = "In *European Symposium on Algorithms (ESA 2016)*"
 publication_short = "In *ESA 2016*"
 title = "Solving $k$-SUM using few linear queries"
 
-[[url_custom]]
+[[links]]
 name = "arXiv"
 url = "https://arxiv.org/abs/1512.06678"
 
-[[url_custom]]
+[[links]]
 name = "ESA 2016"
 url = "https://ipfs.c.ovfefe.cf/ipfs/QmY9HhZ2Kv2PaAbrgiNBh1Hxfo64cfLRgypywutuVyvxYQ"
 
-[[url_custom]]
+[[links]]
 name = "ESA 2016 fast forward"
 url = "https://ipfs.c.ovfefe.cf/ipfs/QmcrTWk45pxQuAn8xdum1yvU5F95t2ZnV86dHCTZfS4Ept"
 
-[[url_custom]]
+[[links]]
 name = "ESA 2016 slides"
 url = "https://ipfs.c.ovfefe.cf/ipfs/QmZERqBRnsEcZj6Wy6DCtkj8KRfdNDvaCEgfwu6Xwv2EKq"
 
-[[url_custom]]
+[[links]]
 name = "HALG 2016 poster"
 url= "https://ipfs.c.ovfefe.cf/ipfs/QmaPNGhvZkn6dNLiY8fB2RU8H5K5oUp2sSor6qAEYvFKuC"
 
-[[url_custom]]
+[[links]]
 name = "Python implementation"
 url = "https://github.com/aureooms-research/meiser"
 

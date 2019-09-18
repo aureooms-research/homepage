@@ -19,15 +19,15 @@ publication = "In *34th European Workshop on Computational Geometry (EuroCG 2018
 publication_short = "In *EuroCG 2018* and *ISAAC 2018*"
 title = "Rectilinear Link Diameter and Radius in a Rectilinear Polygonal Domain"
 
-[[url_custom]]
+[[links]]
 name = "arXiv"
 url = "https://arxiv.org/abs/1712.05538"
 
-[[url_custom]]
+[[links]]
 name = "EuroCG 2018"
 url = "https://ipfs.c.ovfefe.cf/ipfs/QmUXWVyjat8HebDEfjVr8qF3CyqsVRTGwMPSm4PcHusHFG"
 
-[[url_custom]]
+[[links]]
 name = "ISAAC 2018"
 url = "http://isaac2018.ie.nthu.edu.tw"
 

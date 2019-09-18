@@ -10,20 +10,20 @@ authors = [
 date = "2018-04-19"
 image_preview = ""
 math = true
-publication_types = ["1"]
-publication = "In *15th Scandinavian Symposium and Workshops on Algorithm Theory (SWAT 2018)*"
-publication_short = "In *SWAT 2018*"
+publication_types = ["1","2"]
+publication = "In *15th Scandinavian Symposium and Workshops on Algorithm Theory (SWAT 2018)* and *Graphs and Combinatorics*"
+publication_short = "In *SWAT 2018* and *Graphs and Combinatorics*"
 title = "Improved Bounds for Guarding Plane Graphs with Edges"
 
-[[url_custom]]
+[[links]]
 name = "arXiv"
 url = "https://arxiv.org/abs/1804.07150"
 
-[[url_custom]]
+[[links]]
 name = "SWAT 2018"
 url = "https://ipfs.c.ovfefe.cf/ipfs/QmSy3TaV9PA29G57bFbBSDN1wQECUt62FkNnAFerBm87Kz"
 
-[[url_custom]]
+[[links]]
 name = "Graphs and Combinatorics"
 url = "https://rdcu.be/bfM83"
 

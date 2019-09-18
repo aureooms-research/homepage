@@ -18,15 +18,15 @@ publication_short = "In *EuroCG 2017* and *SoCG 2017*. Invited to *DCG* special 
 selected = true
 title = "Subquadratic Algorithms for Algebraic Generalizations of 3SUM"
 
-[[url_custom]]
+[[links]]
 name = "arXiv"
 url = "https://arxiv.org/abs/1612.02384"
 
-[[url_custom]]
+[[links]]
 name = "EuroCG 2017"
 url = "https://ipfs.c.ovfefe.cf/ipfs/QmZ57ggysrJh54vNDrw6vY3FEbwxQsnH31zCw2DEYgfngP"
 
-[[url_custom]]
+[[links]]
 name = "SoCG 2017"
 url = "https://ipfs.c.ovfefe.cf/ipfs/QmWDiWNcVnZRk3aZZK6bWqKpzm2PdVV65V8TWdJuMYPGMh"
 

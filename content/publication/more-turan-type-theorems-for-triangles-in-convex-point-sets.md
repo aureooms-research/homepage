@@ -15,7 +15,7 @@ publication_types = ["2"]
 publication = "To appear in *The Electronic Journal of Combinatorics*"
 title = "More Turán-Type Theorems for Triangles in Convex Point Sets"
 
-[[url_custom]]
+[[links]]
 name = "arXiv"
 url = "https://arxiv.org/abs/1706.10193"
 
