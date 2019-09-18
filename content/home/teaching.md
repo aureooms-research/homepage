@@ -10,9 +10,9 @@ subtitle = ""
 widget = "custom"
 
 # Order that this section will appear in.
-weight = 60
+weight = 110
 
 +++
 
-I am a teaching assistant for the Computability and Complexity (INFOF408)
-lectures at ULB.
+I was a teaching assistant for the Computability and Complexity (INFOF408)
+lectures at ULB from 2015 to 2019.
