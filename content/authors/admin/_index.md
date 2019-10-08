@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -29,6 +29,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: Université libre de Bruxelles
+    year: 2019
   - course: MSc in Optimization and Algorithms
     institution: Université libre de Bruxelles
     year: 2015
@@ -75,7 +78,7 @@ user_groups:
 - Visitors
 ---
 
-Aurélien Ooms is a PhD student
+Aurélien Ooms completed his PhD
 at [ULB](https://ulb.be/en)'s
 [Algorithms Research Group](https://algo.ulb.be)
 under the supervision of
