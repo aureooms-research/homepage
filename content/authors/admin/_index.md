@@ -14,8 +14,8 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: Université libre de Bruxelles
-  url: "https://ulb.be/en"
+#- name: Université libre de Bruxelles
+#  url: "https://ulb.be/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Computational Complexity, Data Structures, Algorithms, Sorting Problems and Computational Geometry.
