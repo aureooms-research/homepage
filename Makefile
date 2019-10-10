@@ -1,6 +1,8 @@
-.PHONY: all build public upload clean
+.PHONY: all deploy build public upload clean
 
 all: build
+
+deploy: clean build upload
 
 build: public
 
