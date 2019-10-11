@@ -6,8 +6,8 @@ summary: ""
 authors: ["Aurélien Ooms"]
 tags: []
 categories: []
-date: 2019-10-07
-lastmod: 2019-10-04T15:45:09+02:00
+date: 2019-10-04
+lastmod: 2019-10-10
 featured: false
 draft: false
 publication_types: ["7"]
