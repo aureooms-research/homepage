@@ -14,8 +14,12 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-#- name: Université libre de Bruxelles
-#  url: "https://ulb.be/en"
+- name: Basic Algorithms Research Copenhagen (BARC)
+  url: "https://barc.ku.dk"
+- name: Datalogisk Institut (DIKU)
+  url: "https://di.ku.dk/english"
+- name: Københavns Universitet (KU)
+  url: "https://ku.dk/english"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Computational Complexity, Data Structures, Algorithms, Sorting Problems and Computational Geometry.
@@ -86,6 +90,9 @@ at [ULB](https://ulb.be/en)'s
 [Algorithms Research Group](https://algo.ulb.be)
 under the supervision of
 [Jean Cardinal](http://homepages.ulb.ac.be/~jcardin).
+He is now a Postdoc at [KU](https://ku.dk/english)'s
+[BARC center](https://barc.ku.dk)
+working with [Mikkel Abrahamsen](https://sites.google.com/site/mikkelabrahamsen).
 His research interests include
 Computational Complexity,
 Data Structures,
