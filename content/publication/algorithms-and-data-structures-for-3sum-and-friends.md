@@ -2,7 +2,7 @@
 title: "Algorithms and Data Structures for 3SUM and Friends"
 subtitle: ""
 abstract: ""
-summary: ""
+summary: "PhD thesis revolving around 3SUM."
 authors: ["Aurélien Ooms"]
 tags: []
 categories: []

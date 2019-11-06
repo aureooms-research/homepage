@@ -3,7 +3,7 @@
 
 title: "Sorting-like Problems"
 subtitle: ""
-summary: "Sorting is a well understood problem in the sense that we have been able to design efficient algorithms to solve it in various models of computation. I will talk about simple generalizations of sorting that are not so well understood. This presentation is based on work in my thesis."
+abstract: "Sorting is a well understood problem in the sense that we have been able to design efficient algorithms to solve it in various models of computation. I will talk about simple generalizations of sorting that are not so well understood. This presentation is based on work in my thesis."
 authors: []
 tags: []
 categories: []
