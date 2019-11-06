@@ -94,7 +94,7 @@ email = "aureooms@ulb.ac.be"
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "50.8201", longitude = "4.3977"}
+coordinates = {latitude = "55.702286", longitude = "12.561351"}
 
 # Directions for visitors to locate you.
 directions = "Office 2.O8.214"
