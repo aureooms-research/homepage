@@ -1,17 +1,19 @@
 .PHONY: all deploy build public upload redirect clean
 
+HUGO := hugo --gc
+
 all: build
 
-deploy: clean build upload
+deploy: clean public upload
 
-build: public
+build:
+	$(HUGO) --destination _build
 
 serv:
-	hugo server
+	$(HUGO) server
 
 public:
-	hugo
-	sed 's:<priority>0</priority>:<priority>1</priority>:g' public/sitemap.xml -i
+	$(HUGO) --minify
 
 upload:
 	rsync -rhv --progress --delete public/ /var/www/research.aurelienooms.be
@@ -33,4 +35,4 @@ redirect:
 	rm -r ../.ftp-tmp
 
 clean:
-	rm -rf public{,_html}
+	rm -rf _build public
