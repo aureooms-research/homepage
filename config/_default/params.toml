@@ -97,7 +97,7 @@ email = "aureooms@ulb.ac.be"
 coordinates = {latitude = "55.702286", longitude = "12.561351"}
 
 # Directions for visitors to locate you.
-directions = "Office 2.O8.214"
+directions = "Nørre Campus, 771 Universitetsparken 1-3/DIKU, Sydfløj, 3-1-17"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
