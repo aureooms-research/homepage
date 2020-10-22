@@ -21,7 +21,7 @@ url = "https://arxiv.org/abs/1804.07150"
 
 [[url_custom]]
 name = "SWAT 2018"
-url = "https://ipfs.c.ovfefe.cf/ipfs/QmSy3TaV9PA29G57bFbBSDN1wQECUt62FkNnAFerBm87Kz"
+url = "https://ipfs.xn--mxac.cc/ipfs/QmSy3TaV9PA29G57bFbBSDN1wQECUt62FkNnAFerBm87Kz"
 
 [[url_custom]]
 name = "Graphs and Combinatorics"
@@ -29,7 +29,7 @@ url = "https://rdcu.be/bfM83"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "https://ipfs.c.ovfefe.cf/ipfs/QmWGExAennsU4gpAdfseRVk4EXso7y52jpsY8fbgeo7om7"
+image = "https://ipfs.xn--mxac.cc/ipfs/QmWGExAennsU4gpAdfseRVk4EXso7y52jpsY8fbgeo7om7"
 
 +++
 

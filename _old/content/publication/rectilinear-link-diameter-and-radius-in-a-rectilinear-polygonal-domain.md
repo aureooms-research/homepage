@@ -25,7 +25,7 @@ url = "https://arxiv.org/abs/1712.05538"
 
 [[url_custom]]
 name = "EuroCG 2018"
-url = "https://ipfs.c.ovfefe.cf/ipfs/QmUXWVyjat8HebDEfjVr8qF3CyqsVRTGwMPSm4PcHusHFG"
+url = "https://ipfs.xn--mxac.cc/ipfs/QmUXWVyjat8HebDEfjVr8qF3CyqsVRTGwMPSm4PcHusHFG"
 
 [[url_custom]]
 name = "ISAAC 2018"
@@ -33,7 +33,7 @@ url = "http://isaac2018.ie.nthu.edu.tw"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "https://ipfs.c.ovfefe.cf/ipfs/QmUFHgdstNRfArLzxmnSBJazdonxZLHEWL7iQM78Dpn4JV"
+image = "https://ipfs.xn--mxac.cc/ipfs/QmUFHgdstNRfArLzxmnSBJazdonxZLHEWL7iQM78Dpn4JV"
 
 +++
 

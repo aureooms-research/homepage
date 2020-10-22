@@ -23,19 +23,19 @@ url = "https://arxiv.org/abs/1801.01767"
 
 [[links]]
 name = "FWCG 2017"
-url = "https://ipfs.c.ovfefe.cf/ipfs/QmaKAfwH8j4pDZ54nmUo5aLrNqczBgUVfPCAcvXtFmMZnK"
+url = "https://ipfs.xn--mxac.cc/ipfs/QmaKAfwH8j4pDZ54nmUo5aLrNqczBgUVfPCAcvXtFmMZnK"
 
 [[links]]
 name = "EuroCG 2018"
-url = "https://ipfs.c.ovfefe.cf/ipfs/QmZ8jc8p4g1LKnm2CJC8g5zbGLGqM9usvkqeWwgw9ySBjz"
+url = "https://ipfs.xn--mxac.cc/ipfs/QmZ8jc8p4g1LKnm2CJC8g5zbGLGqM9usvkqeWwgw9ySBjz"
 
 [[links]]
 name = "SoCG 2018"
-url = "https://ipfs.c.ovfefe.cf/ipfs/QmUBZGBuHaCj4oWCfdDQen9rD9VL7YVKK2QsHKKXKZ73zj"
+url = "https://ipfs.xn--mxac.cc/ipfs/QmUBZGBuHaCj4oWCfdDQen9rD9VL7YVKK2QsHKKXKZ73zj"
 
 [[links]]
 name = "SoCG 2018 slides"
-url = "https://ipfs.c.ovfefe.cf/ipfs/QmckEbpCyq5wgkY8KSGpUs9VAJ3vJVm7zHbMn9VUaUE6yv"
+url = "https://ipfs.xn--mxac.cc/ipfs/QmckEbpCyq5wgkY8KSGpUs9VAJ3vJVm7zHbMn9VUaUE6yv"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

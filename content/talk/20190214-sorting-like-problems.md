@@ -15,7 +15,7 @@ event_url: "https://barc.ku.dk/events/barc-talk-by-aurlien-ooms"
 featured: false
 draft: false
 
-url_slides: "https://ipfs.c.ovfefe.cf/ipfs/QmVtbD6XW7iBQYghi2huEcERJGQ5L29yk3fmABkUX6oAKE"
+url_slides: "https://ipfs.xn--mxac.cc/ipfs/QmVtbD6XW7iBQYghi2huEcERJGQ5L29yk3fmABkUX6oAKE"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -24,11 +24,11 @@ url = "https://arxiv.org/abs/1612.02384"
 
 [[links]]
 name = "EuroCG 2017"
-url = "https://ipfs.c.ovfefe.cf/ipfs/QmZ57ggysrJh54vNDrw6vY3FEbwxQsnH31zCw2DEYgfngP"
+url = "https://ipfs.xn--mxac.cc/ipfs/QmZ57ggysrJh54vNDrw6vY3FEbwxQsnH31zCw2DEYgfngP"
 
 [[links]]
 name = "SoCG 2017"
-url = "https://ipfs.c.ovfefe.cf/ipfs/QmWDiWNcVnZRk3aZZK6bWqKpzm2PdVV65V8TWdJuMYPGMh"
+url = "https://ipfs.xn--mxac.cc/ipfs/QmWDiWNcVnZRk3aZZK6bWqKpzm2PdVV65V8TWdJuMYPGMh"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

@@ -14,11 +14,11 @@ publication: "Master thesis"
 
 links:
 - name: "Full Text"
-  url: "https://ipfs.c.ovfefe.cf/ipfs/QmeBB2gqCXmwem9MExNBnP8WhzBdodNFvvA4VQW6bhiy2y"
+  url: "https://ipfs.xn--mxac.cc/ipfs/QmeBB2gqCXmwem9MExNBnP8WhzBdodNFvvA4VQW6bhiy2y"
 - name: "Cover"
-  url: "https://ipfs.c.ovfefe.cf/ipfs/QmNgBre5P1EzNGxgDtdrAjNivWYu2Uy8D1fUXoJmrWUQMC"
+  url: "https://ipfs.xn--mxac.cc/ipfs/QmNgBre5P1EzNGxgDtdrAjNivWYu2Uy8D1fUXoJmrWUQMC"
 - name: "Defense Slides"
-  url: "https://ipfs.c.ovfefe.cf/ipfs/QmTVLs4XYRxBDKvUsL8SUkwPABj2mQ8HDXyxyFCoTscBsf"
+  url: "https://ipfs.xn--mxac.cc/ipfs/QmTVLs4XYRxBDKvUsL8SUkwPABj2mQ8HDXyxyFCoTscBsf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

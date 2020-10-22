@@ -15,7 +15,7 @@ location: Utrecht, Netherlands
 event: EuroCG 2019
 event_url: http://eurocg2019.uu.nl
 
-url_slides: https://ipfs.c.ovfefe.cf/ipfs/QmZ1jgzT7uW4kiCgNBuCmpytmXxdYtvVrgxMAWcHAVLET5
+url_slides: https://ipfs.xn--mxac.cc/ipfs/QmZ1jgzT7uW4kiCgNBuCmpytmXxdYtvVrgxMAWcHAVLET5
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
