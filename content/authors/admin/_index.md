@@ -13,13 +13,13 @@ superuser: true
 #role: None
 
 # Organizations/Affiliations
-organizations:
-- name: Basic Algorithms Research Copenhagen (BARC)
-  url: "https://barc.ku.dk"
-- name: Datalogisk Institut (DIKU)
-  url: "https://di.ku.dk/english"
-- name: Københavns Universitet (KU)
-  url: "https://ku.dk/english"
+#organizations:
+#- name: Basic Algorithms Research Copenhagen (BARC)
+#  url: "https://barc.ku.dk"
+#- name: Datalogisk Institut (DIKU)
+#  url: "https://di.ku.dk/english"
+#- name: Københavns Universitet (KU)
+#  url: "https://ku.dk/english"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Computational Complexity, Data Structures, Algorithms, Sorting Problems and Computational Geometry.
