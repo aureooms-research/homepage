@@ -60,7 +60,7 @@ social:
 - link: https://dblp.uni-trier.de/pers/hd/o/Ooms:Aur=eacute=lien
   icon_pack: ai
   icon: dblp
-- link: http://drops.dagstuhl.de/opus/ergebnis.php?wer=opus&suchart=teil&Lines_Displayed=10&sort=o.date_year+DESC%2C+o.title&suchfeld1=oa.person&suchwert1=Ooms%2C+Aur%E9lien
+- link: http://drops.dagstuhl.de/opus/ergebnis.php?wer=opus&suchart=teil&Lines_Displayed=10&sort=o.date_year+DESC%2C+o.title&suchfeld1=oa.person&suchwert1=Ooms%2C+Aurelien
   icon_pack: fab
   icon: fort-awesome-alt
 - link: https://github.com/aureooms
