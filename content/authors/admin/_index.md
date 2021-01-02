@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoc
+#role: None
 
 # Organizations/Affiliations
 organizations:
@@ -63,12 +63,12 @@ social:
 - link: http://drops.dagstuhl.de/opus/ergebnis.php?wer=opus&suchart=teil&Lines_Displayed=10&sort=o.date_year+DESC%2C+o.title&suchfeld1=oa.person&suchwert1=Ooms%2C+Aurelien
   icon_pack: fab
   icon: fort-awesome-alt
-- link: https://github.com/aureooms
-  icon_pack: fab
-  icon: github
-- link: mailto:aureooms@ulb.ac.be
-  icon_pack: fas
-  icon: envelope
+#- link: https://github.com/aureooms
+#  icon_pack: fab
+#  icon: github
+#- link: mailto:aureooms@ulb.ac.be
+# icon_pack: fas
+# icon: envelope
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -85,18 +85,12 @@ user_groups:
 - Visitors
 ---
 
-Aurélien Ooms completed his PhD
+I completed a PhD
 at [ULB](https://ulb.be/en)'s
 [Algorithms Research Group](https://algo.ulb.be)
 under the supervision of
 [Jean Cardinal](http://homepages.ulb.ac.be/~jcardin).
-He is now a Postdoc at [KU](https://ku.dk/english)'s
+I was a Postdoc at [KU](https://ku.dk/english)'s
 [BARC center](https://barc.ku.dk)
-working with [Mikkel Abrahamsen](https://sites.google.com/site/mikkelabrahamsen).
-His research interests include
-Computational Complexity,
-Data Structures,
-Algorithms,
-Sorting Problems
-and
-Computational Geometry.
+working with [Mikkel Abrahamsen](https://sites.google.com/site/mikkelabrahamsen)
+until January 2021.
